@@ -9,7 +9,7 @@
 	<li>
 		<p>En el archivo <b>res/values/strings.xml</b> agregar la siguiente linea con su ip:</p>
 		<div class="highlight highlight-source-shell"><pre>
-			<string name='ip'>http://Su ip</string>
+			'<string name='ip'>http://Su ip</string>'
 		</pre></div>
 	</li>
 </ol>
