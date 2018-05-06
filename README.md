@@ -7,7 +7,7 @@
 	<li>Alojar en <b>xampp/htdocs</b> la carpeta <b>archivos/something</b></li>
 	<li>Ejecutar el script contenido en el archivo <b>archivos/something.sql</b></li>
 	<li>
-		En el archivo <b>res/values/strings.xml</b> agregar cambiar el contenido de la la etiqueta ip por la suya
+		En el archivo <b>res/values/strings.xml</b> cambiar el contenido de la etiqueta ip por la su ip
 	</li>
 </ol>
 
