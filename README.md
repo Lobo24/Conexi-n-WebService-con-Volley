@@ -1,13 +1,17 @@
 # Conexión a WebService-con Volley
 
-Antes de ejecutar el proyecto:
+<p>Antes de ejecutar el proyecto:</p>
 
-1 - Descargar Xampp
+<ol>
+	<li>1 - Descargar Xampp</li>
 
-2 - Alojar en "xampp/htdocs" la carpeta "something" contenida en la carpeta "archivos"
+	<li>2 - Alojar en "xampp/htdocs" la carpeta "something" contenida en la carpeta "archivos </li>"
 
-3 - Ejecutar el script contenido en el archivo "archivos/something.sql"
+	<li>3 - Ejecutar el script contenido en el archivo "archivos/something.sql"</li>
 
-4 - En el archivo "res/values/strings.xml" agregar la siguiente linea con su ip 
-  	"<string name='ip'>http://Su ip</string>"
+	<li>
+		<p>4 - En el archivo "res/values/strings.xml" agregar la siguiente linea con su ip</p>
+		<p>'<string name='ip'>http://Su ip</string>'</p>
+	<li>
+<ol>
 
