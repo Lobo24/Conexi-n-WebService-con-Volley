@@ -4,11 +4,8 @@
 
 <ol>
 	<li>Descargar Xampp</li>
-
-	<li>Alojar en "xampp/htdocs" la carpeta "something" contenida en la carpeta "archivos </li>
-
-	<li>Ejecutar el script contenido en el archivo "archivos/something.sql"</li>
-
-	<li>En el archivo "res/values/strings.xml" agregar la siguiente linea con su ip: '<string name='ip'>http://Su ip</string>'</li>
+	<li>Alojar en <b>xampp/htdocs</b> la carpeta <b>archivos/something</b></li>
+	<li>Ejecutar el script contenido en el archivo <b>archivos/something.sql</b></li>
+	<li>En el archivo <b>res/values/strings.xml</b> agregar la siguiente linea con su ip: <b><string name='ip'>http://Su ip</string></b></li>
 </ol>
 
