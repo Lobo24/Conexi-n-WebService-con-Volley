@@ -8,7 +8,9 @@
 	<li>Ejecutar el script contenido en el archivo <b>archivos/something.sql</b></li>
 	<li>
 		<p>En el archivo <b>res/values/strings.xml</b> agregar la siguiente linea con su ip:</p>
-		<p>	 <b>'<string name='ip'>http://Su ip</string>'</b></p>
+		<div class="highlight highlight-source-shell"><pre>
+			<string name='ip'>http://Su ip</string>
+		</pre></div>
 	</li>
 </ol>
 
