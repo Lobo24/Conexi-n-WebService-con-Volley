@@ -1,6 +1,6 @@
-# Conexi-n-WebService-con-Volley
+# Conexión a WebService-con Volley
 
-antes de ejecutar el proyecto:
+Antes de ejecutar el proyecto:
 
 1 - Descargar Xampp
 
